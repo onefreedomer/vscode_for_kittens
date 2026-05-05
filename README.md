@@ -16,5 +16,5 @@ git clone https://github.com/kovidgoyal/kitty.git /путь/к/kitty_src
 ```cfg
 map hot_key kitten ваш_kitten.py
 ```
-5. Готово!
-Пример оформления такой настройки приведен в директории `kitty` данного репозитория.
+5. Готово!<br>
+Пример оформления таких настроек с kitten приведен в директории `kitty` данного репозитория.
