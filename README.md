@@ -14,7 +14,7 @@ git clone https://github.com/kovidgoyal/kitty.git /путь/к/kitty_src
 ```
 4. Добавьте в файл настроек `kitty.conf` клавишу, по которой будет активироваться Ваш kitten.
 ```cfg
-map hot_key kitten ваш_kitten.py
+map hot_key kitten /путь/к/ваш_kitten.py
 ```
 5. Готово!<br>
 Пример оформления таких настроек с kitten приведен в директории `kitty` данного репозитория.
